@@ -6,3 +6,6 @@ Task 1 : Create a bar chart or histogram to visualize the distribution of a cate
 Programming language used : Python
 Python libraries used : Pandas, Seaborn, Matplotlib
 
+![image](https://github.com/user-attachments/assets/cdbd432c-0bb5-4c45-a995-51e5f605d5cb)
+
+
